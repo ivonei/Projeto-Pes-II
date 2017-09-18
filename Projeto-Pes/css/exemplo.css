@@ -1,0 +1,10 @@
+a{background-color: blue;}
+@media screen and (min-width: 768px){
+a{background-color: yellow;}
+}
+@media screen and (min-width: 992px){
+a{background-color: green;}
+}
+@media screen and (min-width: 1200px){
+a{background-color: black;}
+}

@@ -1,0 +1,15 @@
+body {
+  padding-top: 70px;
+}
+
+.navbar-fixed-top {
+
+background-color: #337ab7;
+border-color:#337ab7;
+  font-family: 'Open Sans', sans-serif;
+}
+.navbar-fixed-top .navbar-nav>.open>a, .navbar-fixed-top .navbar-nav>.open>a:hover, .navbar-fixed-top .navbar-nav>.open>a:focus {
+color: #fff;background-color: #0e364c;}
+
+.navbar-fixed-top .navbar-nav>li>a {color:#ffffff;font-family: 'Open Sans', sans-serif;}
+.navbar-fixed-top .navbar-brand { color:#ffffff;}
